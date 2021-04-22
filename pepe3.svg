@@ -1,0 +1,14 @@
+<svg width="1962" height="1199" viewBox="0 0 1962 1199" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M981 218H1199V327H1308V436H1417V654H1526V872H763V763H654V545H545V327H654V218H872V327H981V218Z" fill="#14A02E"/>
+<rect width="109" height="109" transform="matrix(-1 0 0 1 1199 436)" fill="white"/>
+<rect width="218" height="109" transform="matrix(-1 0 0 1 981 436)" fill="white"/>
+<rect width="109" height="109" transform="matrix(-1 0 0 1 1090 436)" fill="#060608"/>
+<rect width="109" height="109" transform="matrix(-1 0 0 1 763 436)" fill="#060608"/>
+<rect width="436" height="109" transform="matrix(-1 0 0 1 1090 654)" fill="#B4202A"/>
+<rect width="872" height="109" transform="matrix(-1 0 0 1 1635 872)" fill="#285CC4"/>
+<rect width="109" height="327" transform="matrix(-1 0 0 1 1744 545)" fill="#14A02E"/>
+<rect width="109" height="109" transform="matrix(-1 0 0 1 763 763)" fill="#285CC4"/>
+<rect width="109" height="109" transform="matrix(-1 0 0 1 654 654)" fill="#14A02E"/>
+<rect width="109" height="109" transform="matrix(-1 0 0 1 545 545)" fill="#14A02E"/>
+<rect width="109" height="109" transform="matrix(-1 0 0 1 436 436)" fill="#14A02E"/>
+</svg>

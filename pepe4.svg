@@ -1,0 +1,15 @@
+<svg width="1962" height="1199" viewBox="0 0 1962 1199" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M654 218H872V327H981V436H1090V654H1199V872H436V763H327V545H218V327H327V218H545V327H654V218Z" fill="#14A02E"/>
+<rect width="109" height="109" transform="matrix(-1 0 0 1 872 436)" fill="white"/>
+<rect width="218" height="109" transform="matrix(-1 0 0 1 654 436)" fill="white"/>
+<rect width="109" height="109" transform="matrix(-1 0 0 1 763 436)" fill="#060608"/>
+<rect width="109" height="109" transform="matrix(-1 0 0 1 436 436)" fill="#060608"/>
+<rect width="436" height="109" transform="matrix(-1 0 0 1 763 654)" fill="#B4202A"/>
+<rect width="872" height="109" transform="matrix(-1 0 0 1 1199 872)" fill="#285CC4"/>
+<rect width="109" height="218" transform="matrix(-1 0 0 1 218 654)" fill="#14A02E"/>
+<rect x="218" y="872" width="109" height="109" fill="#14A02E"/>
+<rect x="1199" y="763" width="109" height="109" fill="#285CC4"/>
+<rect x="1308" y="654" width="109" height="109" fill="#14A02E"/>
+<rect x="1417" y="545" width="109" height="109" fill="#14A02E"/>
+<rect x="1526" y="436" width="109" height="109" fill="#14A02E"/>
+</svg>
